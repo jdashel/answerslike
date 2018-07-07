@@ -1,7 +1,7 @@
 {
-  "name": "bloglike",
+  "name": "answerslike",
   "version": "1.0.0",
-  "description": "Blog like app.",
+  "description": "Answers like app.",
   "main": "src/main.js",
   "private": true,
   "scripts": {

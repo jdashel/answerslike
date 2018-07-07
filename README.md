@@ -1,6 +1,6 @@
 # test-project
 
-Blog like app
+Answers like app
 
 ## Build Setup
 
